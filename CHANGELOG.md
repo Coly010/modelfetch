@@ -1,3 +1,11 @@
+## 1.1.0 (2025-08-14)
+
+### 🚀 Features
+
+- **@modelfetch/core:** This is an awesome change! ([](https://github.com/Coly010/modelfetch/commit/))
+
+  A new paragraph describing the change in greater detail. All of this will be included in the CHANGELOG.md. All of this structure within the markdown section is optional and flexible.
+
 ## 1.0.11 (2025-08-14)
 
 ### 🩹 Fixes
