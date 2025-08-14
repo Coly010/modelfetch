@@ -1,6 +1,6 @@
 {
   "name": "@modelfetch/fastly",
-  "version": "1.7.0",
+  "version": "1.9.0",
   "description": "Fastly runtime adapter for MCP servers built with ModelFetch",
   "keywords": [
     "model-context-protocol",
