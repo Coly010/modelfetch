@@ -1,3 +1,9 @@
+## 1.7.0 (2025-08-14)
+
+### 🚀 Features
+
+- **@modelfetch/core:** Some change ([](https://github.com/Coly010/modelfetch/commit/))
+
 ## 1.6.0 (2025-08-14)
 
 ### 🚀 Features
