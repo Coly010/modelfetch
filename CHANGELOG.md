@@ -1,3 +1,9 @@
+## 1.2.0 (2025-08-14)
+
+### 🚀 Features
+
+- **@modelfetch/core:** Some hange ([](https://github.com/Coly010/modelfetch/commit/))
+
 ## 1.1.0 (2025-08-14)
 
 ### 🚀 Features
